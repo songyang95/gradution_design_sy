@@ -1,0 +1,15 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: content-box;
+}
+img{
+  border:0;
+}
+html{
+}
+body {
+  font: 0.14rem "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: #ffffff;
+}
+
